@@ -1,0 +1,14 @@
+{
+  "name": "MOOC_html_mod5-juego_entrega",
+  "version": "3.0.1",
+  "license": "Unlicense",
+  "info": {
+      "githubURL": "ging-moocs/MOOC_html_mod5-juego_entrega",
+      "serverUrl": "https://moocbot.dit.upm.es/",
+      "courseId": "141",
+        "assignmentId": "114"
+    },
+    "dependencies": {
+        "autocorector": "^3.5.0"
+    }
+}
